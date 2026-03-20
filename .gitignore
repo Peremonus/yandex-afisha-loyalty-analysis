@@ -13,6 +13,7 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 *.ipynb~
+*.jupyter/desktop-workspaces
 
 # Данные и конфигурации
 .env
